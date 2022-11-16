@@ -1,5 +1,5 @@
 module BugsHelper
-    def abc
-        'fff'
+    def new
+        'ndskjbukaf'
     end
 end
