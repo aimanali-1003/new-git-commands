@@ -1,0 +1,24 @@
+diff --git a/app/controllers/bugs_controller.rb b/app/controllers/bugs_controller.rb
+index a7e4ebc..4ef0968 100644
+--- a/app/controllers/bugs_controller.rb
++++ b/app/controllers/bugs_controller.rb
+@@ -1,4 +1,10 @@
+ class BugsController < ApplicationController
+     def index
+     end
++
++    def new 
++    end
++
++    def edit
++    end
+ end
+diff --git a/index.txt b/index.txt
+deleted file mode 100644
+index eb8d54d..0000000
+--- a/index.txt
++++ /dev/null
+@@ -1,2 +0,0 @@
+-hello world
+-my name is aiman
+\ No newline at end of file
