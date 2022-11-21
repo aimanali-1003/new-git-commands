@@ -1,4 +1,4 @@
 class CommentsController < ApplicationController
-    def index 
+    def edit 
     end
 end
